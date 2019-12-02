@@ -1,0 +1,12 @@
+*.csv
+.ipynb_checkpoints
+__pycache__
+*.png
+*.txt
+*.joblib
+*.npy
+*-ubyte
+*.jpg
+*.jpeg
+*.npz
+*.md
