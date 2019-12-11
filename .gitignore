@@ -10,3 +10,8 @@ __pycache__
 *.jpeg
 *.npz
 *.md
+*.mp4
+*.avi
+echant
+images_test_rev
+images_training_rev1
