@@ -12,6 +12,7 @@ __pycache__
 *.md
 *.mp4
 *.avi
+*.pdf
 echant
 images_test_rev
 images_training_rev1
