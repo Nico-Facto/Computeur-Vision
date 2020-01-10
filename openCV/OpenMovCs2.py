@@ -38,7 +38,7 @@ out = cv2.VideoWriter('reduced_flame_color_segmented.avi',fourcc, int(fps), (fra
 
 # Check if camera opened successfully
 if (cap.isOpened()== False): 
-  print("Error opening video stream or file")
+    print("Error opening video stream or file")
 
 
 # Read until video is completed
